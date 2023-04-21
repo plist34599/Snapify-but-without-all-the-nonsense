@@ -1,0 +1,1 @@
+# here there is old code, im too lazy to update it, its gon be too long and boring so imma take part from it and make a new one, if u read this, idk what ur doing but u are wasting ur time so much rn ong
