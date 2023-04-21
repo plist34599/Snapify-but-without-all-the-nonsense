@@ -5,6 +5,16 @@
 
 # Install
 
+1- Use req_install.bat to install requirements or type 'pip install -r requirements.txt'
+
+
+
+
+
+
+
+
+
 all those crazy long and boring steps are removed from now cause im trynna get something less,...time comsuming to work.
 
 the add function still good though but boosting hurt my brain, why dont u wanna save values ?? xd
