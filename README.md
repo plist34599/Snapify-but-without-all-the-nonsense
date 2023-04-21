@@ -3,7 +3,7 @@
 #### The developers are NOT responsible for what you do with this tool.
 #### This is Plist fork, do wtf u want with this im not responsible and idc.
 # Support
-#### Click [Removed cause its fake]  to join our discord support server (http://discord.link/Snapify nice link btw)
+#### Click [Removed cause its fake]  to join our discord support server (discord.link/Snapify nice link btw)
 
 
 # Install
