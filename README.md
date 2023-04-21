@@ -1,6 +1,5 @@
 # Disclaimer
 #### This tool has been created by Quessts and ANG in order to show the exploit found in Snapchat that can be abused to get a really high snapscore. This is for educational purposes only.
-#### The developers are NOT responsible for what you do with this tool.
 #### This is Plist fork, do wtf u want with this im not responsible and idc.
 # Support
 #### Click [Removed cause its fake]  to join our discord support server (discord.link/Snapify nice link btw)
