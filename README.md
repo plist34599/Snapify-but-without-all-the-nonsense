@@ -21,3 +21,7 @@ the add function still good though but boosting hurt my brain, why dont u wanna 
 
 
 new version soon with coords editing made easier etc, just and liter version without prompting u if u know how to use it (wtf??u need view like that on ur tutorial video go get a yt viewbot cause that is lame)
+
+
+
+made a version but got lazy and didnt uploaded it xd
